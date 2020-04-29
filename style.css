@@ -1,0 +1,28 @@
+*
+td
+{
+	font-family: 'helvetica',sans-serif;
+	font-size: 13px;
+}
+
+table, tr, th
+{
+	font-family: 'Luckiest Guy',cursive;
+}
+
+ td, th, table
+{
+	 border:6px solid black;
+  border: solid;
+}
+
+td, th 
+{
+  padding: 9px;
+  text-align: left;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
